@@ -1,5 +1,3 @@
-import { FC, ReactElement } from "react";
-
 import Link from "next/link";
 import SignInButton from "./ui/SignInButton";
 import SignOutButton from "./ui/SignOutButton";
